@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'kaguya/cli'
+
+Kaguya::CLI.start(ARGV)
